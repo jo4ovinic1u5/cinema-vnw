@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: red;
+  color: white;
+}
+
+section {
+  background: gray;
+}
+
+.card {
+  background: purple;
+  border: solid;
+  height: 150px;
+  width: 150px;
+}
+.card img {
+  width: 125px;
+  height: 90px;
+}
+.card .subtitulo {
+  color: rgb(162, 100, 237);
+}
+.card #btn1 {
+  background: blue;
+}
+.card #btn2 {
+  background-color: darkblue;
+}/*# sourceMappingURL=style.css.map */
